@@ -13,7 +13,6 @@
 		651894B7291F9EEB00B7543C /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651894B6291F9EEB00B7543C /* ImageViewController.swift */; };
 		65D3591E291D2C970059D4CC /* signalsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D3591D291D2C970059D4CC /* signalsView.swift */; };
 		65D35920291D54E20059D4CC /* UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D3591F291D54E20059D4CC /* UIButton.swift */; };
-		65EB3A50292249A500DD372C /* gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 65EB3A4F292249A500DD372C /* gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,9 +22,9 @@
 		65155CC8291D0B9A00E51A64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65155CCD291D0B9A00E51A64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		651894B6291F9EEB00B7543C /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		657F25BF297FA9DE00C67DB9 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		65D3591D291D2C970059D4CC /* signalsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = signalsView.swift; sourceTree = "<group>"; };
 		65D3591F291D54E20059D4CC /* UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButton.swift; sourceTree = "<group>"; };
-		65EB3A4F292249A500DD372C /* gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = gitignore; path = "../../../Library/Group Containers/group.com.apple.notes/tmp/HardLinkURLTemp/AB574DE4-D12F-4E6D-98C5-725CAAE6E7EE/1655247947/gitignore"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +41,7 @@
 		65155CB3291D0B9900E51A64 = {
 			isa = PBXGroup;
 			children = (
-				65EB3A4F292249A500DD372C /* gitignore */,
+				657F25BF297FA9DE00C67DB9 /* .gitignore */,
 				65155CBE291D0B9900E51A64 /* GrandCentralDispach */,
 				65155CBD291D0B9900E51A64 /* Products */,
 			);
@@ -161,7 +160,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				65155CC9291D0B9A00E51A64 /* Assets.xcassets in Resources */,
-				65EB3A50292249A500DD372C /* gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
